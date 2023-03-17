@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+h2{color:rgb(255,99,71)}
+.p016{color: #000fff;}
+.p017{width: 400px;
+    height: 400px;
+background:linear-gradient(to left top, red,green) }
+.p018{width: 400px;
+    height: 400px;
+    background:radial-gradient(red,green);
+}

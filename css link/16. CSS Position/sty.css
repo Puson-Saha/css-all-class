@@ -1,0 +1,45 @@
+.p004{
+    width: 600px;
+    height: 400px;
+    background-color:green;
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  margin: auto;}
+  .p005{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.p006{
+    margin-top: 10px;
+    margin: auto;
+    border: 5px solid red;
+    text-align: center;
+    width: 200px;
+    background-color: black;
+    color: white;
+    position:sticky ;
+    top: 0;
+
+    
+}
+.p007{
+    padding-bottom:1000px ;
+}
+.p008{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border: 5px solid red;
+    
+}

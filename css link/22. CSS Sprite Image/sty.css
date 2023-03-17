@@ -1,0 +1,12 @@
+.social{
+    width: 39px;
+    height: 39px;
+    background-image: url(image/download.png);
+    background-position: 0 -40px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    transition: 5s;
+}
+.social:hover{
+    background-position: 0 -78px;
+}

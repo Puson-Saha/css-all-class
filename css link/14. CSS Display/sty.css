@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+    display: inline-block;
+} 
+span{ font-size: 25px;
+    /*display: block;*/
+}
+ul li{ display: inline;}

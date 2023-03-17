@@ -1,0 +1,13 @@
+.p1{
+    color: red;
+    border-width: 5px;
+    border-style:dashed;
+    border-color: rgb(110, 41, 175);
+    text-align:center;
+    border-radius: 25px;
+}
+#p2{color: rgb(55, 0, 255);
+    border-width: 5px;
+    border-style:solid;
+    border-color: rgb(41, 175, 97);
+    text-align:center;}

@@ -1,0 +1,32 @@
+h3{ text-align: center;
+    transform: translate(0,100px);
+    }
+    .box02{
+        width: 400px;
+        height: 400px;
+        background-color: white;
+        color: tomato;
+        margin: 100px auto;
+        position: relative;
+        transform:translatex(200px);
+        border: 5px solid red;
+    }
+    .box02 h4{ 
+        font-size: 50px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20%;
+    }
+    .box03{
+        width: 400px;
+        height: 400px;
+        background-color: tomato;
+        margin:100px auto ;
+        
+        *transition-property:all ;
+        transition-delay:1s ;
+        transition-duration:0.5s ;
+        transition-timing-function: cubic-bezier(.59,.95,1,.03);
+    
+    transition: all 0.5s linear;}

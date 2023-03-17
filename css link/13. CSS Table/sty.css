@@ -1,0 +1,10 @@
+table,th,td{ 
+    border: 5px solid green;
+    border-collapse: collapse;
+    text-align: start;
+ 
+ }
+ table{
+     width: 100%;
+     color: red;
+ }

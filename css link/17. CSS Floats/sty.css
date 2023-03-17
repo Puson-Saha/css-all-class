@@ -1,0 +1,12 @@
+.p009{
+    width: 400px;
+    float: right;
+}.p010{
+    width: 400px; 
+    float: left;
+}
+
+.p011{ clear: both ;}
+div{
+    float: left;
+}

@@ -1,0 +1,19 @@
+.flexbox{
+    background-color: aqua;
+    font-size: 35px;
+    display: flex;
+  /*  flex-wrap: wrap;
+    flex-direction: column-reverse;  */        
+    flex-flow: wrap row;
+    justify-items: center;
+    height: 400px;
+    align-items: center;
+}
+.flexbox > div{
+    background-color: grey;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}
+.flexbox > div:nth-child(5){
+    order: 1;}
